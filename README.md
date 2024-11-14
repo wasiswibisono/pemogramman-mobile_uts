@@ -22,10 +22,6 @@
 <p>
     <img src="doc/UI.png" alt="UI" width="500">
 </p>
-
-<p>
-    <img src="doc/design.png" alt="Design" width="500">
-</p>
-
+    
 
  
