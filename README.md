@@ -10,7 +10,7 @@
 
 ## Storyboard
 <p>
-[](assets/images/StoryBoard.png)
+![gambar](Gambar/StoryBoard.png)
 </p>
 
 ## Mockup
