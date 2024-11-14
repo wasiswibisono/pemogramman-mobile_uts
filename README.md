@@ -10,7 +10,7 @@
 
 ## Storyboard
 <p>
-    <img src="doc/Storyboard.png" alt="Storyboard" width="500">
+[](assets/images/StoryBoard.png)
 </p>
 
 ## Mockup
