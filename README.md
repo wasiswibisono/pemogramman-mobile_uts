@@ -10,17 +10,17 @@
 
 ## Storyboard
 <p>
-    <img src="doc/storyboard.png" alt="Storyboard" width="500">
+    <img src="doc/Storyboard.png" alt="Storyboard" width="500">
 </p>
 
 ## Mockup
 <p>
-    <img src="doc/mockup.png" alt="Mockup" width="500">
+    <img src="doc/Mockup.png" alt="Mockup" width="500">
 </p>
 
 ## UI
 <p>
-    <img src="doc/ui.png" alt="UI" width="500">
+    <img src="doc/UI.png" alt="UI" width="500">
 </p>
 
 <p>
