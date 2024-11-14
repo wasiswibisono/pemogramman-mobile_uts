@@ -9,19 +9,19 @@
 
 
 ## Storyboard
-<p>
-![gambar](Gambar/StoryBoard.png)
-</p>
+
+![StoryBoard](https://github.com/user-attachments/assets/5d0cc28c-aa0d-4e2e-8e06-954ebc0140a9)
+
+
 
 ## Mockup
-<p>
-    <img src="doc/Mockup.png" alt="Mockup" width="500">
-</p>
+
+![Mockup](https://github.com/user-attachments/assets/4479fc5e-619a-4084-9919-4b8012224ce9)
+
 
 ## UI
-<p>
-    <img src="doc/UI.png" alt="UI" width="500">
-</p>
+![UI](https://github.com/user-attachments/assets/34f93724-a811-411a-8566-445dced553c4)
+
     
 
  
